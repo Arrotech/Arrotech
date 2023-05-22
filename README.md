@@ -38,6 +38,7 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 ```md
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ```
+
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
