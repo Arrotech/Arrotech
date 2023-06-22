@@ -8,20 +8,20 @@ Successful `Software Engineer` offering `5+` years of experience in demanding en
 `Skilled` in directing development with a `creative` and `performance-oriented` approach.
 A proud `team player` focused on achieving project objectives with `speed and accuracy`.
 
-<h2>🥇 Specialised in:</h2>
+<h3>🥇 Specialised in:</h3>
 
 <br>🔸 Frontend - HTML, CSS, JavaScript, and React.js, 
 <br>🔸 Backend - Python, Node, and .NET(C#)
 <br>🔸 DevOps - Cloud (AWS & Heroku), Git & GitHub, CI/CD (Travis CI, CircleCI, Azure pipelines, and GitHub Actions), Kubernetes, Docker, Pivotal Tracker
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+<h4>ℹ️ &nbsp;Github Info</h4>
 
 <br />
 
-<h3>🔎 Github Profile Details</h3>
+<h4>🔎 Github Profile Details</h4>
 <p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrotech&theme=github_dark" alt="arrotech" align = "center"/></p>
 
-<h3>🔥 Github Stats</h3>
+<h4>🔥 Github Stats</h4>
 <p align="left"><a href="https://github.com/Arrotech/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arrotech&show_icons=true&theme=github_dark" alt="Arrotech's github stats" />
 </a></p>
@@ -31,17 +31,17 @@ A proud `team player` focused on achieving project objectives with `speed and ac
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrotech&theme=github_dark" />
 </a></p>
 
-<h3>🔥 Github Streaks</h3>
+<h4>🔥 Github Streaks</h4>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arrotech&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="arrotech" /></p>
 
-<h3>📊 Github Contribution Graph</h3>
+<h4>📊 Github Contribution Graph</h4>
 ```md
 [![Harun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arrotech)](https://github.com/Arrotech/github-readme-activity-graph)
 ```
 
 <!-- </details>
 <details>    -->
-<h2>🏆 Github Achievements</h2>
+<h4>🏆 Github Achievements</h4>
 <p align="left"> <a href="https://github.com/arrotech"><img src="https://github-profile-trophy.vercel.app/?username=arrotech&margin-w=5&theme=radical" alt="arrotech" /></a> </p>
 
 <br />
