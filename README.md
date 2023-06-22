@@ -9,7 +9,6 @@ Successful `Software Engineer` offering `5+` years of experience in demanding en
 A proud `team player` focused on achieving project objectives with `speed and accuracy`.
 
 <h3>🥇 Specialised in:</h3>
-
 <br>🔸 Frontend - HTML, CSS, JavaScript, and React.js, 
 <br>🔸 Backend - Python, Node, and .NET(C#)
 <br>🔸 DevOps - Cloud (AWS & Heroku), Git & GitHub, CI/CD (Travis CI, CircleCI, Azure pipelines, and GitHub Actions), Kubernetes, Docker, Pivotal Tracker
