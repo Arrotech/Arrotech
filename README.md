@@ -23,16 +23,16 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 
 <h3>🔥 Github Stats</h3>
 <p align="left"><a href="https://github.com/Arrotech/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arrotech&show_icons=true&theme=github_dark" alt="Arrotech's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arrotech&show_icons=true&theme=github_dark" alt="Arrotech's github stats" />
 </a></p>
 
 <p align="left"><a href="https://github.com/Arrotech/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrotech&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrotech&theme=github_dark" />
 </a></p>
 
 <h3>🔥 Github Streaks</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arrotech&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="arrotech" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arrotech&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="arrotech" /></p>
 
 <h3>📊 Github Contribution Graph</h3>
 ```md
