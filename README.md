@@ -45,11 +45,6 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 <p align="left"> <a href="https://github.com/arrotech"><img src="https://github-profile-trophy.vercel.app/?username=arrotech&margin-w=5&theme=radical" alt="arrotech" /></a> </p>
 
 <br />
-<br />
-
-<br />
-
-- Reach me: **_arrotechdesign@gmail.com_**
   
 <a href="https://twitter.com/ArrotechDesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ArrotechDesign" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/harun-gachanja-9a19ba155" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harun gachanja" height="30" width="30" /></a>
