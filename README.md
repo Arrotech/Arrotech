@@ -23,12 +23,12 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 
 <h3>🔥 Github Stats</h3>
 <p align="left"><a href="https://github.com/Arrotech/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arrotech&show_icons=true&theme=github_dark" alt="Arrotech's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arrotech&show_icons=true&theme=github_dark" alt="Arrotech's github stats" />
 </a></p>
 
 <p align="left"><a href="https://github.com/Arrotech/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrotech&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrotech&theme=github_dark" />
 </a></p>
 
 <h3>🔥 Github Streaks</h3>
