@@ -19,14 +19,14 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 <br />
 
 <h3>🔎 Github Profile Details</h3>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrotech&theme=github_dark" alt="arrotech" align = "center"/></p>
+<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrotech&theme=github_dark" alt="arrotech" align = "center"/></p>
 
 <h3>🔥 Github Stats</h3>
-<p align="center"><a href="https://github.com/Arrotech/github-readme-stats">
+<p align="left"><a href="https://github.com/Arrotech/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arrotech&show_icons=true&theme=github_dark" alt="Arrotech's github stats" />
 </a></p>
 
-<p align="center"><a href="https://github.com/Arrotech/github-readme-stats">
+<p align="left"><a href="https://github.com/Arrotech/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrotech&theme=github_dark" />
 </a></p>
