@@ -42,7 +42,7 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 <!-- </details>
 <details>    -->
 <h2>🏆 Github Achievements</h2>
-<p align="center"> <a href="https://github.com/arrotech"><img src="https://github-profile-trophy.vercel.app/?username=arrotech&margin-w=5&theme=radical" alt="arrotech" /></a> </p>
+<p align="left"> <a href="https://github.com/arrotech"><img src="https://github-profile-trophy.vercel.app/?username=arrotech&margin-w=5&theme=radical" alt="arrotech" /></a> </p>
 
 <br />
 <br />
