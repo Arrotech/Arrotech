@@ -32,9 +32,6 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 <h4>🔥 Github Streaks</h4>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arrotech&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="arrotech" /></p>
 
-<h4>📊 Github Contribution Graph</h4>
-[![Harun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arrotech)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- </details>
 <details>    -->
 <h4>🏆 Github Achievements</h4>
