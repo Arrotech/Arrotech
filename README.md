@@ -49,11 +49,11 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 
 <br />
 
+- Reach me: **_arrotechdesign@gmail.com_**
+  
 <a href="https://twitter.com/ArrotechDesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ArrotechDesign" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/harun-gachanja-9a19ba155" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harun gachanja" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/12127169/arrotech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="arrotech" height="30" width="30" /></a>
 <a href="https://medium.com/@harungachanjagitundu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harungachanjagitundu" height="30" width="30" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arrotech" alt="Arrotech" /> </p>
-
-- Reach me: **_arrotechdesign@gmail.com_**
