@@ -18,10 +18,10 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 
 <br />
 
-<h2>🔎 Github Profile Details</h2>
+<h3>🔎 Github Profile Details</h3>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrotech&theme=github_dark" alt="arrotech" align = "center"/></p>
 
-<h2>🔥 Github Stats</h2>
+<h3>🔥 Github Stats</h3>
 <p align="center"><a href="https://github.com/Arrotech/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arrotech&show_icons=true&theme=github_dark" alt="Arrotech's github stats" />
 </a></p>
@@ -31,17 +31,17 @@ A proud `team player` focused on achieving project objectives with `speed and ac
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrotech&theme=github_dark" />
 </a></p>
 
-<h2>🔥 Github Streaks</h2>
+<h3>🔥 Github Streaks</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arrotech&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="arrotech" /></p>
 
-<h2>📊 Github Contribution Graph</h2>
+<h3>📊 Github Contribution Graph</h3>
 ```md
 [![Harun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arrotech)](https://github.com/Arrotech/github-readme-activity-graph)
 ```
 
 <!-- </details>
 <details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
+<h2>🏆 Github Achievements</h2>
 <p align="center"> <a href="https://github.com/arrotech"><img src="https://github-profile-trophy.vercel.app/?username=arrotech&margin-w=5&theme=radical" alt="arrotech" /></a> </p>
 
 <br />
