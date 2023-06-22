@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harun Gitundu</h1>
-<h3 align="center">A passionate Software Engineer from Kenya</h3
+<h3 align="center">A passionate Software Engineer from Kenya</h3>
 
-<h2> 🧑 About me:</h2>
+<h2>🧑 About me:</h2>
 
 Successful `Software Engineer` offering `5+` years of experience in demanding environments focused on producing `cutting-edge` systems for clients.
 `Forward-thinking` Software Engineer with a background working effectively in `dynamic environments`.
@@ -12,17 +12,16 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 
 <br>🔸 Frontend - HTML, CSS, JavaScript, and React.js, 
 <br>🔸 Backend - Python, Node, and .NET(C#)
-<br>🔸 DevOps - Cloud (AWS & Heroku), Git & GitHub, CI/CD (Travis CI, CircleCI, Azure pipelines and GitHub Actions), Kubernetes, Docker, Pivota Tracker
-<p>
+<br>🔸 DevOps - Cloud (AWS & Heroku), Git & GitHub, CI/CD (Travis CI, CircleCI, Azure pipelines, and GitHub Actions), Kubernetes, Docker, Pivotal Tracker
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
 <br />
 
-  <summary><b>🔎 Github Profile Details</b></summary>
+<h2>🔎 Github Profile Details</h2>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrotech&theme=github_dark" alt="arrotech" align = "center"/></p>
 
- <h2>🔥 Github Stats</h2>
+<h2>🔥 Github Stats</h2>
 <p align="center"><a href="https://github.com/Arrotech/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arrotech&show_icons=true&theme=github_dark" alt="Arrotech's github stats" />
 </a></p>
@@ -32,7 +31,7 @@ A proud `team player` focused on achieving project objectives with `speed and ac
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrotech&theme=github_dark" />
 </a></p>
 
- <h2>🔥 Github Streaks</h2>
+<h2>🔥 Github Streaks</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arrotech&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="arrotech" /></p>
 
 <h2>📊 Github Contribution Graph</h2>
