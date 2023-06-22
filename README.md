@@ -14,9 +14,7 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 <br>🔸 Backend - Python, Node, and .NET(C#)
 <br>🔸 DevOps - Cloud (AWS & Heroku), Git & GitHub, CI/CD (Travis CI, CircleCI, Azure pipelines, and GitHub Actions), Kubernetes, Docker, Pivotal Tracker
 
-<h4>ℹ️ &nbsp;Github Info</h4>
-
-<br />
+<h3>ℹ️ &nbsp;Github Info</h4>
 
 <h4>🔎 Github Profile Details</h4>
 <p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrotech&theme=github_dark" alt="arrotech" align = "center"/></p>
