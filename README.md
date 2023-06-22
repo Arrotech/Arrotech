@@ -11,7 +11,7 @@ A proud `team player` focused on achieving project objectives with `speed and ac
 <h3>🥇 Specialised in:</h3>
 🔸 Frontend - HTML, CSS, JavaScript, and React.js, 
 <br>🔸 Backend - Python, Node, and .NET(C#)
-<br>🔸 DevOps - Cloud (AWS & Heroku), Git & GitHub, CI/CD (Travis CI, CircleCI, Azure pipelines, and GitHub Actions), Kubernetes, Docker, Pivotal Tracker
+<br>🔸 DevOps - Cloud (AWS & Heroku), Git & GitHub, CI/CD (Travis CI, CircleCI, Azure pipelines, and GitHub Actions), Kubernetes, Docker, Pivotal Tracker, Ansible, Chef, Code Climate, Coveralls, CodeCov
 
 <h3>ℹ️ &nbsp;Github Info</h4>
 
